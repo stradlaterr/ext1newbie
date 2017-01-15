@@ -1,0 +1,91 @@
+
+.logo{
+
+	margin: -5px auto 0;
+    display:block;
+}
+.headerul{
+		margin-bottom:10px;
+}
+.maincontent{
+
+	box-sizing: border-box;	
+}
+input[type=text] {
+	margin:auto;
+	display:block;
+	width:50%;
+	line-height: 28px;
+
+	position:relative;
+	top:20px;
+
+}
+.button{
+	font-weight:bold; 
+	border-style:none;
+	height: 30px;
+	position:relative;
+	width:15%;
+	top:50px;
+	background-color: #e5e5e5;
+	color:#7c7c7c;
+
+}
+#searchbutton{
+	margin-right: 15px;
+	
+}
+#luckybutton{
+
+}
+li{
+
+	display:inline;
+	margin-right:5px;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+ul{
+	    margin: 0;
+    padding: 0;
+	position:absolute;
+	right:0px;
+}
+.linksunderlined:hover {
+    text-decoration: underline;
+}
+.cuadritos{
+	background-image: url(ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    -webkit-background-size: 528px 68px;
+    background-size: 528px 68px;
+}
+.foto{
+	border-radius: 50%;
+}
+.leftfooter:hover,.rightfooter:hover {
+    text-decoration: underline;
+}.spacefooter{
+	height:5px;
+	margin-top: 300px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: #f2f2f2;
+  border-top: 0;
+
+  line-height: 5px;
+  text-align:center;
+
+
+  
+}.rightfooter,.leftfooter{
+	margin-right: 15px;
+}
+.rightspanfoot{
+	float:right;
+}
+.leftspanfoot{
+	float:left;
+}
